@@ -1,4 +1,5 @@
 # vuejs-news-01
+Listado de noticias desarrollado en VUE, que permite elegir la fuente de las mismas y que se alimenta de la API https://newsapi.org/
 
 > A Vue.js project
 
